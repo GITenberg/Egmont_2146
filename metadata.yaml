@@ -1,0 +1,30 @@
+_repo: Egmont_2146
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Goethe, J. W. (Johann Wolfgang)
+    - Von Goethe, Johann Wolfgang
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_bookshelf:
+- Harvard Classics
+- DE Drama
+gutenberg_issued: '2000-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2146'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tragedies'
+- !lcsh 'Egmont, Lamoraal, Graaf van, 1522-1568 -- Drama'
+- !lcc 'PT'
+title: Egmont
+url: http://www.gutenberg.org/ebooks/2146
