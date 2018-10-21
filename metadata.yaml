@@ -1,5 +1,5 @@
 _repo: Egmont_2146
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Tragedies'
 - !lcsh 'Egmont, Lamoraal, Graaf van, 1522-1568 -- Drama'
 - !lcc 'PT'
+- GITenberg
 title: Egmont
 url: http://www.gutenberg.org/ebooks/2146
